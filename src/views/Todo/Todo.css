@@ -1,0 +1,14 @@
+.todo-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    
+}
+
+.todo-card-content {
+    padding: 20px;
+    width: 50%;
+    max-width: 400px;
+    
+}

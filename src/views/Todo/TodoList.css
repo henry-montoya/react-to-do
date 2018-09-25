@@ -1,0 +1,15 @@
+.todo-list-card {
+    padding: 20px;
+    margin: 5px;
+    width: 100%;
+}
+
+.task-complete {
+    text-decoration: line-through;
+
+}
+
+.free-time {
+    text-align: center;
+    color: #08ff8c70;
+}

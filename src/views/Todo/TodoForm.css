@@ -1,0 +1,23 @@
+.todo-form-card {
+    margin: 5px;
+    padding: 20px;
+    width: 100%;
+    
+}
+
+.todo-form-heading {
+    text-align: center;
+    font-size: 44px;
+}
+
+.todo-form-card .todo-input {
+    width: 100%;
+    
+}
+.todo-option-buttons {
+    margin-top: 20px;
+}
+
+.todo-add-button {
+    float: right;
+}
